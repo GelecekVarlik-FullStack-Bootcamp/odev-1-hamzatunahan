@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj": {}
+    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj": {}
   },
   "projects": {
-    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj": {
+    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
         "projectName": "Northwind.Interface",
-        "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
+        "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Interface\\Northwind.Interface.csproj",
         "packagesPath": "C:\\Users\\HAMZA\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Interface\\obj\\",
+        "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HAMZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

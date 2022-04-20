@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.WebApi\\Northwind.WebApi.csproj": {}
+    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.WebApi\\Northwind.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.WebApi\\Northwind.WebApi.csproj": {
+    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.WebApi\\Northwind.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.WebApi\\Northwind.WebApi.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.WebApi\\Northwind.WebApi.csproj",
         "projectName": "Northwind.WebApi",
-        "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.WebApi\\Northwind.WebApi.csproj",
+        "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.WebApi\\Northwind.WebApi.csproj",
         "packagesPath": "C:\\Users\\HAMZA\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.WebApi\\obj\\",
+        "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HAMZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

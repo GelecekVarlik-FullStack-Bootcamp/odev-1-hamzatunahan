@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj": {}
+    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj": {}
   },
   "projects": {
-    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj": {
+    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
         "projectName": "Northwind.Bll",
-        "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
+        "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
         "packagesPath": "C:\\Users\\HAMZA\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Bll\\obj\\",
+        "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Bll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HAMZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
-                "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj"
+              "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
+                "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj"
               }
             }
           }
@@ -64,18 +64,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
+    "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
         "projectName": "Northwind.Entity",
-        "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
+        "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj",
         "packagesPath": "C:\\Users\\HAMZA\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Entity\\obj\\",
+        "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HAMZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

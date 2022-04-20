@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jx7JtNal9FhgwuNrFuqXwpLpImTB7GmB/4txR8DvcM7YgceaAIh4besTJ6nv1VW0RJ5TsygXxqKxFvQcH32JBg==",
+  "dgSpecHash": "SvxsHhF+8rwLaml6pVSlohqSFmtIG6JGkbB4DsVN++I7meT+DpCm/18gWNjalUAKGRFEJFVu2Pl2+2UlVUQL7g==",
   "success": true,
-  "projectFilePath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
+  "projectFilePath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HAMZA\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\HAMZA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

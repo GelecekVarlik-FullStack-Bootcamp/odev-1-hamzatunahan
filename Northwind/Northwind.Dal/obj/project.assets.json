@@ -5850,11 +5850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
+      "projectUniqueName": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
       "projectName": "Northwind.Dal",
-      "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
+      "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
       "packagesPath": "C:\\Users\\HAMZA\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Dal\\obj\\",
+      "outputPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HAMZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5871,8 +5871,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
-              "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj"
+            "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj": {
+              "projectPath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Entity\\Northwind.Entity.csproj"
             }
           }
         }
@@ -5917,7 +5917,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

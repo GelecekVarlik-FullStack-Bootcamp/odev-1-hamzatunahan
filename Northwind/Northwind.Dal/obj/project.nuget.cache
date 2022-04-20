@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XQhAcfDyZybmeitaJQ9mXmdrhiMFEjceUMQLKnwKkZmBAkuYsIlO7HPJtT5BDtWgaEKgiu2yi+f+4KglF/Xijg==",
+  "dgSpecHash": "9okXuI/RirncYKSCaXa+UDTbfzwQoWdGzJXV/NTijhk8Gmw4o3vhOG/hEPUgQAVrIHCrIJiAGjbtxTMN0fyX4g==",
   "success": true,
-  "projectFilePath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
+  "projectFilePath": "D:\\ASP.NET\\GelecekVarlık\\egitim kodları\\Githuba atılan\\homework1\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HAMZA\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\HAMZA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
